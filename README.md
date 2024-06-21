@@ -10,10 +10,15 @@ Mock Interview AI is a SaaS platform designed to help users practice for intervi
 💻 User-Friendly Interface: Intuitive design for a seamless practice experience.
 📸 Screenshots
 🏠 Home Page
+![aimock](https://github.com/Anish0099/AiInterviewApp/assets/109581121/71c0e906-28ae-480b-9914-6bc41222ec5a)
 
 🗨️ Interview Simulation
 
+![Screenshot (221)](https://github.com/Anish0099/AiInterviewApp/assets/109581121/e63e51aa-1398-436a-b3dd-2a529046ed46)
+
 🧾 Feedback Summary
+
+![Screenshot (220)](https://github.com/Anish0099/AiInterviewApp/assets/109581121/85db0e59-3015-4592-8883-9e75182049b1)
 
 🚀 Installation
 🛠️ Prerequisites
